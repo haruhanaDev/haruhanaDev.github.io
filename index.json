@@ -1,20 +1,36 @@
 {
-    "name":"com.haruhana.utilities",
-    "id":"com.haruhana.utilities",
-    "url":"https://haruhanadev.github.io/index.json",
-    "author":{
-        "email":"bfx.sjmx@gmail.com",
-        "name":"haruhana",
-        "url":""
-    },
-    "description":"",
-    "bannerUrl":"banner.png",
-    "packages":[
-        {
-            "name":"com.haruhana.utilities",
-            "releases":[
-                "https://github.com/haruhanaDev/VRCHaruhanaUtilities/releases/download/0.0.1/com.haruhana.utilities.zip"
-            ]
+  "name": "com.haruhana.utilities",
+  "author": "haruhana",
+  "url": "https://haruhanadev.github.io/index.json",
+  "id": "io.github.haruhanadev",
+  "packages": {
+    "com.haruhana.utilities": {
+      "versions": {
+        "0.0.1": {
+          "name": "com.haruhana.utilities",
+          "displayName": "",
+          "version": "0.0.1",
+          "unity": "2022.3.22f1",
+          "description": "",
+          "gitDependencies": {
+
+          },
+          "vpmDependencies": {
+
+          },
+          "changelogUrl": "https://www.poiyomi.com/changelog",
+          "author": {
+            "name": "haruhana",
+            "url": "https://github.com/haruhanaDev/VRCHaruhanaUtilities"
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/haruhanaDev/VRCHaruhanaUtilities/releases/download/0.0.1/com.haruhana.utilities.zip",
+          "legacyFiles": {
+
+          }
         }
-    ]
+      }
+    }
+    
+  }
 }
