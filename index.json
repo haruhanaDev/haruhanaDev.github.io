@@ -11,19 +11,15 @@
           "displayName": "com.haruhana.utilities",
           "version": "0.1.0",
           "unity": "2022.3",
-          "description": "",
-          "changelogUrl": "",
+          "description": "com.haruhana.utilities",
           "author": {
             "name": "haruhana",
             "email": "bfx.sjmx@gmail.com",
             "url": ""
           },
-          "unityRelease": "22f1",
           "zipSHA256": "c569c6bafada51973f492670f21d552fa9d987abc5205cd7a2e5b0eb68a12877",
-          "url": "https://github.com/haruhanaDev/VRCHaruhanaUtilities/releases/download/0.1.0/com.haruhana.utilitie-0.1.0.zip",
+          "url": "https://github.com/haruhanaDev/VRCHaruhanaUtilities/releases/download/0.1.0/com.haruhana.utilitie-0.1.0.zip"
           
-          "legacyFolders": {},
-          "legacyFiles": {}
         }
       }
     }
