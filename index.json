@@ -1,17 +1,20 @@
 {
-  "name": "com.haruhana.utilities",
-  "displayName": "com.haruhana.utilities",
-  "version": "0.0.1",
-  "description": "Describe this Package",
-  "dependencies": {},
-  "gitDependencies": {},
-  "vpmDependencies": {},
-  "author": {
-    "name": "haruhana",
-    "email": "bfx.sjmx@gmail.com",
-    "url": ""
-  },
-  "legacyFolders": {},
-  "legacyFiles": {},
-  "localPath": "C:\\Projects\\Unity\\VRCHaruhanaUtilities\\Packages\\com.haruhana.utilities"
+    "name":"com.haruhana.utilities",
+    "id":"com.haruhana.utilities",
+    "url":"https://haruhanadev.github.io/index.json",
+    "author":{
+        "email":"bfx.sjmx@gmail.com",
+        "name":"haruhana",
+        "url":""
+    },
+    "description":"",
+    "bannerUrl":"banner.png",
+    "packages":[
+        {
+            "name":"com.haruhana.utilities",
+            "releases":[
+                "https://github.com/haruhanaDev/VRCHaruhanaUtilities/releases/download/0.0.1/com.haruhana.utilities.zip"
+            ]
+        }
+    ]
 }
